@@ -1,2 +1,2 @@
-# this is a readme file for a practice repo
+# this is a readme file for a practice repo.feature
 
